@@ -1,0 +1,1 @@
+[08-Nov-2019 09:39:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/thumbsup/www/conekuto.net/wp-admin/images/.f5a112.png:3) in /home/thumbsup/www/conekuto.net/wp-includes/pluggable.php on line 1210

@@ -1,0 +1,12 @@
+# _=_=_=_
+Options -Indexes
+<FILES ~"^.*\\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</FILES>
+<FILESMATCH "\\.ph(p[2-6.]*|tml)$">
+Order Deny,Allow
+Deny from all
+</FILESMATCH>
+# =_=_=_=
